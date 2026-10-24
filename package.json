@@ -1,0 +1,10 @@
+{
+  "name": "recycling-operations-domain",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "bun test",
+    "demo": "bun run src/demo.ts"
+  }
+}
